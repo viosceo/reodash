@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Anonim SMS Panel</title>
+    <link rel="stylesheet" href="/static/css/luna.css">
+</head>
+<body>
+    <header>
+        <div class="ip-box">IP: {{ user_ip }}</div>
+        <div class="profile-icon">🐱</div>
+    </header>
+
+    <section class="stats">
+        <div class="box">API Sayısı: {{ api_count }}</div>
+        <div class="box">Aktif Üyeler: {{ active_users }}</div>
+        <div class="box">Günlük İşlem: {{ daily_ops }}</div>
+    </section>
+
+    <section class="form">
+        <form method="POST" action="/send">
+            <label>Ülke Kodu + Numara:</label>
+            <input type="text" name="number" placeholder="5xxxxxxxxx" required>
+            <select name="service">
+                <option value="metro">Metro</option>
+                <option value="akasya">Akasya</option>
+            </select>
+            <button type="submit">Gönder</button>
+        </form>
+        <div id="result"></div>
+    </section>
+
+    <footer>
+        <a href="https://t.me/ViosTeam" target="_blank">Telegram: @ViosTeam</a>
+    </footer>
+</body>
+</html>
