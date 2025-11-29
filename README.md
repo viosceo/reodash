@@ -42,3 +42,18 @@ Python Local:
 | 🍷   | Copilot |
 
 ---
+
+## 📊 PROJE ANALİZ
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melissaroseria&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melissaroseria&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="100%"/>
+</div>
+
+---
+
+
+
