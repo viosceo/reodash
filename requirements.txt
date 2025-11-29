@@ -1,0 +1,3 @@
+flask
+gitpython
+python-telegram-bot
