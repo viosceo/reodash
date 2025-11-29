@@ -1,0 +1,22 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.nav-link:hover {
+  background-color: #333;
+  border-radius: 6px;
+}
+
+.list-group-item {
+  background-color: #1c1c1c;
+  color: #fff;
+  border: none;
+}
+
+.list-group-item + .list-group-item {
+  margin-top: 5px;
+}
