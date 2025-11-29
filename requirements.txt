@@ -2,7 +2,14 @@ flask
 git
 gitpython
 python-telegram-bot
-dnspython
 telebot
 telegram
 pyrogram
+requests
+dnspython
+tgcrypto
+asyncio
+youtube_search
+youtube_search_python
+yt_dlp
+asyncio
