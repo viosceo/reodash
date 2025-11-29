@@ -1,3 +1,0 @@
-email: hakan@example.com
-username: hakanbypass
-password: 12345
